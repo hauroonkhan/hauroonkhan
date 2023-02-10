@@ -1,7 +1,7 @@
 <h1>Hi! I'm Muhammad Haroon</h1> 
 <h4>Enthusiastic software engineer skilled in software design and developmet with a strong foundation in OOP, Web and Cross-platform coding. I work on projects passionately, but I’ll be happy to discuss new opportunities. Let’s get in touch!</h4>
 
-- 🌱 Currently Working as a Flutter (Mobile Application) Developer at <b>Apex Ventures</b> 
+- 🌱 Currently working as a <b>Flutter</b> (Mobile App) Developer at <b>Apex Ventures</b> 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - 💼 Any freelance work? do reach! [email](mailto:horikhan840@gmail.com)
